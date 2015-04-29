@@ -1,0 +1,39 @@
+@media all and (min-width: 968px) and (max-width: 3840px) { 
+body { background-color: #c4d8e2; margin: auto; }
+header { width: 100%; background-color: #f6fbfc; border-bottom: 5px solid #436B95; padding: 25px; margin-bottom: 100px; } 
+#login { width: 100%; height: 225px; margin: auto; text-align: center; background-color: #f6fbfc; border-bottom: 5px solid #436B95; border-top: 5px solid #436B95; padding: 25px;}
+h1 { color: #436B95; font-family: Arial, Helvetica, sans-serif; }
+h2 { color: #436B95; font-family: Arial, Helvetica, sans-serif;}
+label { color: #436B95; font-family: Arial, Helvetica, sans-serif; }
+span { color: #ff9494; font-family: Arial, Helvetica, sans-serif;}
+#regsub { background-color: #436B95; color: #c4d8e2; margin: auto; text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 20px; width: 150px; height: 25px; border-radius: 15px;}
+#loginsub { background-color: #436B95; color: #c4d8e2; margin: auto; text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 20px; width: 150px; height: 25px; border-radius: 15px;}
+a, a:visited { color: #436B95; font-family: Arial, Helvetica, sans-serif; text-decoration: none;}
+a:hover { text-decoration: underline;}
+}
+@media all and (min-width: 500px) and (max-width: 967px) {
+body { background-color: #c4d8e2; margin: auto; }
+header { width: 100%; background-color: #f6fbfc; border-bottom: 5px solid #436B95; padding: 25px; margin-bottom: 100px; } 
+#login { width: 100%; height: 225px; margin: auto; text-align: center; background-color: #f6fbfc; border-bottom: 5px solid #436B95; border-top: 5px solid #436B95; padding: 25px;}
+h1 { color: #436B95; font-family: Arial, Helvetica, sans-serif; }
+h2 { color: #436B95; font-family: Arial, Helvetica, sans-serif;}
+label { color: #436B95; font-family: Arial, Helvetica, sans-serif; }
+span { color: #ff9494; font-family: Arial, Helvetica, sans-serif;}
+#regsub { background-color: #436B95; color: #c4d8e2; margin: auto; text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 20px; width: 150px; height: 25px; border-radius: 15px;}
+#loginsub { background-color: #436B95; color: #c4d8e2; margin: auto; text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 20px; width: 150px; height: 25px; border-radius: 15px;}
+a, a:visited { color: #436B95; font-family: Arial, Helvetica, sans-serif; text-decoration: none;}
+a:hover { text-decoration: underline;}
+}
+@media all and (min-width: 200px) and (max-width: 499px) {
+body {  background-color: #c4d8e2; margin: auto; }
+header { width: 100%; background-color: #f6fbfc; border-bottom: 5px solid #436B95; padding: 25px; margin-bottom: 100px; }
+#login { width: 100%; height: 225px; margin: auto;  background-color: #f6fbfc; border-bottom: 5px solid #436B95; border-top: 5px solid #436B95; padding: 20px;}
+h1 { color: #436B95; font-family: Arial, Helvetica, sans-serif;}
+h2 { color: #436B95; font-family: Arial, Helvetica, sans-serif;}
+label { color: #436B95; font-family: Arial, Helvetica, sans-serif; }
+span { color: #ff9494; font-family: Arial, Helvetica, sans-serif;}
+#regsub { background-color: #436B95; color: #c4d8e2; text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 20px; width: 150px; height: 25px; border-radius: 15px;}
+#loginsub { background-color: #436B95; color: #c4d8e2; text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 20px; width: 150px; height: 25px; border-radius: 15px;}
+a, a:visited { color: #436B95; font-family: Arial, Helvetica, sans-serif; text-decoration: none;}
+a:hover { color:#436B95; font-family: Arial, Helvetica, sans-serif; text-decoration: underline;}
+}
